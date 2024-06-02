@@ -16,3 +16,13 @@ HR Request to Data Analysis Team
 
 # Compensation Table
 ![image](https://github.com/nibinkjoseph/End-to-end-SQL-Project-HR-Analytics/assets/63180074/ae6835c5-20e4-497e-9f63-a2873691a214)
+
+# Join the Tables
+![image](https://github.com/nibinkjoseph/End-to-end-SQL-Project-HR-Analytics/assets/63180074/715028f5-8354-474a-8c8d-809353d37880)
+
+## Find the healtiest employee for bonus
+![image](https://github.com/nibinkjoseph/End-to-end-SQL-Project-HR-Analytics/assets/63180074/bd3678ef-ad39-4cdd-b6bc-b52054a92d35)
+
+## Compensation rate increase for non-smokers
+![image](https://github.com/nibinkjoseph/End-to-end-SQL-Project-HR-Analytics/assets/63180074/7b36eb25-0fc7-4c5d-88fa-ed90545da422)
+
